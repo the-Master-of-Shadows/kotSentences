@@ -3,10 +3,10 @@
 import random
 
 when = ["Last year", "Last century", "Last week"]
-who = ["Stalin was", "Lening was", "Hitler was"]
-where = ["in Moscow", "in Stalingrad"]
-did = ["fucking", "playing with"]
-what = ["98K", "T-34"]
+who = ["Mr.Floppy was", "Mr.Redmountain was", "Mr.Chen was"]
+where = ["in London", "in Warsaw"]
+did = ["playing with"]
+what = ["computer", "python"]
 
 when_ = when[random.randint(0, len(when)-1)]
 who_ = who[random.randint(0, len(who)-1)]
